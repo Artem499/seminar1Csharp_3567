@@ -8,7 +8,7 @@ int numberB = 5;
 int result = numberA + numberB;
 Console.WriteLine(result);
 
-int numberA = new Random().Next(1, 10); // 1, 2, 3 ... 9
-int numberB = new Random().Next(100, 1000); //100, 101 ... 999
-int result = numberB / numberA;
+int numberC = new Random().Next(1, 10); // 1, 2, 3 ... 9
+int numberD = new Random().Next(100, 1000); //100, 101 ... 999
+int result = numberD / numberC;
 Console.WriteLine(result);
