@@ -19,3 +19,16 @@ int numberF = new Random().Next(1, 10); // random 1 - 9
 Console.WriteLine(numberF);
 int result3 = numberE + numberF;
 Console.WriteLine(result3);
+
+Console.Write("input username: ");
+string username = Console.ReadLine();
+
+if (username.ToLower() == "маша")
+{
+    Console.WriteLine("Здравствуйте, Мария!");
+}
+else
+{
+    Console.Writeline("Привет, ");
+    Console.WriteLine("username");
+}
