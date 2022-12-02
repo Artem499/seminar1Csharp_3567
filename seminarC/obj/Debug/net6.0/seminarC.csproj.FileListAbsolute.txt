@@ -1,0 +1,5 @@
+/home/artem/doc/seminarC/obj/Debug/net6.0/seminarC.csproj.AssemblyReference.cache
+/home/artem/doc/seminarC/obj/Debug/net6.0/seminarC.GeneratedMSBuildEditorConfig.editorconfig
+/home/artem/doc/seminarC/obj/Debug/net6.0/seminarC.AssemblyInfoInputs.cache
+/home/artem/doc/seminarC/obj/Debug/net6.0/seminarC.AssemblyInfo.cs
+/home/artem/doc/seminarC/obj/Debug/net6.0/seminarC.csproj.CoreCompileInputs.cache
