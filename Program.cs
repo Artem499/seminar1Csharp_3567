@@ -20,15 +20,15 @@ Console.WriteLine(numberF);
 int result3 = numberE + numberF;
 Console.WriteLine(result3);
 
-Console.Write("input username: ");
-string username = Console.ReadLine();
+Console.Write("input username1: ");
+string username1 = Console.ReadLine();
 
-if (username.ToLower() == "маша")
+if (username1.ToLower() == "маша")
 {
     Console.WriteLine("Здравствуйте, Мария!");
 }
 else
 {
     Console.Writeline("Привет, ");
-    Console.WriteLine("username");
+    Console.WriteLine("username1");
 }
