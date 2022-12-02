@@ -1,8 +1,14 @@
-﻿Console.WriteLine("input your name, ");
+﻿// 
+Console.WriteLine("input your name, ");
+//
 string username = Console.ReadLine();
+//
 Console.WriteLine("Hello!");
+//
 Console.WriteLine(username);
+//
 
+//
 int numberA = 3;
 int numberB = 5;
 int result = numberA + numberB;
@@ -29,6 +35,6 @@ if (username1.ToLower() == "маша")
 }
 else
 {
-    Console.Writeline("Привет, ");
+    Console.WriteLine("Привет, ");
     Console.WriteLine("username1");
 }
