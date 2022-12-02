@@ -3,3 +3,13 @@
 /home/artem/doc/seminarC/obj/Debug/net6.0/seminarC.AssemblyInfoInputs.cache
 /home/artem/doc/seminarC/obj/Debug/net6.0/seminarC.AssemblyInfo.cs
 /home/artem/doc/seminarC/obj/Debug/net6.0/seminarC.csproj.CoreCompileInputs.cache
+/home/artem/doc/seminarC/bin/Debug/net6.0/seminarC
+/home/artem/doc/seminarC/bin/Debug/net6.0/seminarC.deps.json
+/home/artem/doc/seminarC/bin/Debug/net6.0/seminarC.runtimeconfig.json
+/home/artem/doc/seminarC/bin/Debug/net6.0/seminarC.dll
+/home/artem/doc/seminarC/bin/Debug/net6.0/ref/seminarC.dll
+/home/artem/doc/seminarC/bin/Debug/net6.0/seminarC.pdb
+/home/artem/doc/seminarC/obj/Debug/net6.0/seminarC.dll
+/home/artem/doc/seminarC/obj/Debug/net6.0/ref/seminarC.dll
+/home/artem/doc/seminarC/obj/Debug/net6.0/seminarC.pdb
+/home/artem/doc/seminarC/obj/Debug/net6.0/seminarC.genruntimeconfig.cache

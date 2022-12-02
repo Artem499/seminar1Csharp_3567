@@ -9,10 +9,10 @@ Console.WriteLine("Input number2 = ");
 int number2 = Convert.ToInt32(Console.ReadLine());
 if(number1 < number2)
 {
-    Console.WriteLine(number2);
+    Console.WriteLine("Число 2 больше, чем число 1"number2);
 }
 else
 {
-    Console.WriteLine(number1);
+    Console.WriteLine("Число 1 больше, чем число 2"number1);
 }
 
