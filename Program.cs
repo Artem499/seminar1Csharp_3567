@@ -18,4 +18,4 @@ Console.WriteLine(numberE);
 int numberF = new Random().Next(1, 10);
 Console.WriteLine(numberF);
 int result3 = numberE + numberF;
-Console.WriteLine(result);
+Console.WriteLine(result3);
