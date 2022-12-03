@@ -4,14 +4,15 @@
 // -3 -> нет
 
 Console.WriteLine("input number : ");
-int intNumber= Convert.ToInt32(Console.ReadLine());
+int figure = Convert.ToInt32(Console.ReadLine());
 
-if(intNumber / 2)
+if(figure % 2 == 0)
 {
     Console.WriteLine("the number is divided by two : ");
-    Console.WriteLine(intNumber);
+    Console.WriteLine(figure);
 }
 else
 {
-    Console.WriteLine("Error! the number is not divided by two")
+    Console.WriteLine("Error! the number is not divided by two");
 }
+
