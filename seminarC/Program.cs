@@ -2,7 +2,8 @@
 //Напишите программу, которая на вход принимает два числа и выдаёт,
 // какое число большее, а какое меньшее.
 // a = 5; b = 7 -> max = 7
-Console.WriteLine("Сравни два числа, какое из них больше.")
+
+Console.WriteLine("Сравни два числа, какое из них больше.");
 Console.WriteLine("Input number1 = ");
 int number1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Input number2 = ");
