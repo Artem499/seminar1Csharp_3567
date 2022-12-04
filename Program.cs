@@ -1,40 +1,23 @@
-﻿// 
-Console.WriteLine("input your name, ");
-//
-string username = Console.ReadLine();
-//
-Console.WriteLine("Hello!");
-//
-Console.WriteLine(username);
-//
+﻿// Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
 
-//
-int numberA = 3;
-int numberB = 5;
-int result = numberA + numberB;
-Console.WriteLine(result);
+// задал максимальное целое число, с которым будут сравниваться другие числа
 
-int numberC = new Random().Next(1, 10); // 1, 2, 3 ... 9
-int numberD = new Random().Next(1, 10); // 1, 2, 3 ... 9
-int result2 = numberD / numberC;
-Console.WriteLine(result2);
+Console.WriteLine("Сравнение, какое из треёх чисел больше");
 
-int numberE = new Random().Next(1, 10); // random 1 - 9
-Console.WriteLine(numberE);
-int numberF = new Random().Next(1, 10); // random 1 - 9
-Console.WriteLine(numberF);
-int result3 = numberE + numberF;
-Console.WriteLine(result3);
+int numberMax = 1;
 
-Console.Write("input username1: ");
-string username1 = Console.ReadLine();
+// пользователь вводит числа, которые будут сравниваться
 
-if (username1.ToLower() == "маша")
-{
-    Console.WriteLine("Здравствуйте, Мария!");
-}
-else
-{
-    Console.WriteLine("Привет, ");
-    Console.WriteLine("username1");
-}
+Console.WriteLine("Input number 1 : ");
+int numbera = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Input number 2 : ");
+int numberb = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Input number 3 : ");
+int numberc = Convert.ToInt32(Console.ReadLine());
+
+if(numbera > numberMax) numberMax = numbera;
+if(numberb > numberMax) numberMax = numberb;
+if(numberc > numberMax) numberMax = numberc;
+
+Console.WriteLine("Max number : ");
+Console.WriteLine(numberMax);
