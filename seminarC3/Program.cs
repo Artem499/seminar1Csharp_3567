@@ -3,6 +3,7 @@
 // 4 -> да
 // -3 -> нет
 
+Console.WriteLine("Проверка числа на четность");
 Console.WriteLine("input number : ");
 int figure = Convert.ToInt32(Console.ReadLine());
 
